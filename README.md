@@ -13,14 +13,16 @@
    - Head of Sciences Department of HIMATIKA FMIPA Unila 2020
 
 ## Work Experience:
-#### 1. [PT. BFI Finance Indonesia](https://www.bfi.co.id) | Data Analyst | Tangerang `Jul'2023 - Sep'2023`
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
-   - Create Automation using Python and VBA Excel for day-to-day routine
+#### 1. [PT BFI Finance Indonesia](https://www.bfi.co.id) | Data Analyst | Tangerang `Jul'2023 - Sep'2023`
+   - Create data visualization and dashboard
+   - Manipulating and analyzing data with Excel
+   - Collaborate with team leader regarding analysis result
 #### 2. [PT Great Giant Food](https://portal.pln.co.id) | Research Planning Information | Lampung Tengah `Jan'2023 - Jun'2023`
-   - Manage to update CAD of distribution lines using AutoCAD
-   - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
+   - Entering and retrieving data from the database
+   - Manipulating and analyzing data with Excel and Python
+   - Create data visualizations and dashboards
+   - Collaborate with researchers regarding research data 
+
 ---
 
 ### Languages and Tools:
