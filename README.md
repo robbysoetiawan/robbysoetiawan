@@ -1,6 +1,6 @@
 # Hi there, I'm Robby 👋
 ## About me:
-- 🔭 I’m data scientist and AI enthusiast
+- 🔭 I’m a data and AI enthusiast
 - 🌱 I’m currently learning machine learning and AI
 - 👯 I’m looking to collaborate as Data Scientist
 - 💬 Ask me about anything
