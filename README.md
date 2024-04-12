@@ -49,6 +49,9 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/robbysoetiawan#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/robbysoetiawan#gh-dark-mode-only)
 
-
-
 [webdev]: https://github.com/robbysoetiawan/robbysoetiawan
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=robbysoetiawan&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robbysoetiawan&layout=compact&theme=vision-friendly-dark)](https://github.com/mlnayusuf24/github-readme-stats)
+
