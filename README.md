@@ -1,4 +1,7 @@
 # Hi there, I'm Robby 👋
+
+![Visitor Count](https://profile-counter.glitch.me/%7Brobbysoetiawan%7D/count.svg)
+
 ## About me:
 - 🔭 I’m a data and AI enthusiast
 - 🌱 I’m currently learning machine learning and AI
