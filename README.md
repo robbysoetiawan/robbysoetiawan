@@ -9,23 +9,6 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: robbysoetiawan@gmail.com
 
-## Education:
-
-#### [Universitas Lampung](https://www.unila.ac.id) | Bachelor of Mathematics | Bandar Lampung `2018-2022`
-   - Head of Social and Sciences Department BEM FMIPA Unila 2021
-   - Head of Sciences Department of HIMATIKA FMIPA Unila 2020
-
-## Work Experience:
-#### 1. [PT BFI Finance Indonesia](https://www.bfi.co.id) | Data Analyst | Tangerang `Jul'2023 - Sep'2023`
-   - Create data visualization and dashboard
-   - Manipulating and analyzing data with Excel
-   - Collaborate with team leader regarding analysis result
-#### 2. [PT Great Giant Food](https://portal.pln.co.id) | Research Planning Information | Lampung Tengah `Jan'2023 - Jun'2023`
-   - Entering and retrieving data from the database
-   - Manipulating and analyzing data with Excel and Python
-   - Create data visualizations and dashboards
-   - Collaborate with researchers regarding research data 
-
 ---
 
 ### Languages and Tools:
